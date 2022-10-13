@@ -12,7 +12,7 @@ Types:-
 ->One base class and multiple derived class.
 
 4.Hirachical
-->Multiple base class and one derived class.
+->one base class and Multiple derived class.
 
 5.Hybrid
 ->Combition of any types.
